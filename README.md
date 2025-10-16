@@ -199,7 +199,7 @@ experimental results were obtained using only the log-normal dist. as the prob. 
 - pointwise learning (attention score function `concat` is applied)
     - movielens latest small (2018) [`notebook`](/_notebooks/pointwise/BAMF_lognormal_concat_movielens.ipynb)
     - last.fm 2k (2011) [`notebook`](/_notebooks/pointwise/BAMF_lognormal_concat_lastfm.ipynb)
-    - amazon luxury beauty small 5-core (2018) [`notebook`](/_notebooks/pointwise/BAMF_lognormal_concat_abeauty.ipynb): interaction density is relatively low, the reliability of individual observations is relatively low, user history length is relatively short
+    - amazon luxury beauty small 5-core (2018) [`notebook`](/_notebooks/pointwise/BAMF_lognormal_concat_abeauty.ipynb)
     - amazon digital music small 5-core (2014) [`notebook`](/_notebooks/pointwise/BAMF_lognormal_concat_music.ipynb)
 
 - pointwise learning (attention score function `prod` is applied)
